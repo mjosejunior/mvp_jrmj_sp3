@@ -33,7 +33,7 @@ Antes de começar, certifique-se de que tem o seguinte instalado:
 + 1. Clonar o Repositório: Abra um terminal no seu computador e digite:
 
 ```powershell
-git clone https://github.com/mjosejunior/mvp_jmrm_sp3.git
+git clone https://github.com/mjosejunior/mvp_jrmj_sp3.git
 ```
 + 2. Instalar Dependências: Execute o comando:
 
