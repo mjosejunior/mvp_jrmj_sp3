@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Maria Silva",
+      "role": "Full Stack Developer",
+      "description": "Maria Silva é uma renomada Full Stack Developer com mais de 10 anos de experiência em desenvolvimento web. Ela é apaixonada por criar soluções inovadoras e escaláveis para os desafios mais complexos. Sua especialidade inclui o desenvolvimento de aplicativos web e móveis usando tecnologias modernas como React, Node.js e React Native.",
+      "imageUrl": "/assets/team_m_1.png"
+    },
+    {
+      "name": "João Santos",
+      "role": "Engenheiro de Software",
+      "description": "João Santos é um especialista em Engenharia de Software com ampla experiência em projetar e desenvolver sistemas de software robustos. Com uma sólida base em arquitetura de software, ele lidera equipes na criação de soluções de alta qualidade que superam as expectativas dos clientes.",
+      "imageUrl": "/assets/team_h_2.png"
+    },
+    {
+      "name": "Ana Rodrigues",
+      "role": "Designer de UI/UX",
+      "description": "Ana Rodrigues é uma talentosa Designer de UI/UX que transforma ideias em interfaces visualmente atraentes e intuitivas. Seu olho para detalhes e paixão pelo design centrado no usuário resultam em experiências digitais envolventes e impactantes.",
+      "imageUrl": "/assets/team_m_3.png"
+    },
+    {
+      "name": "Pedro Almeida",
+      "role": "Engenheiro de Testes",
+      "description": "Pedro Almeida é um Engenheiro de Testes experiente, especializado em garantir a qualidade de software por meio de testes rigorosos e automatizados. Sua abordagem meticulosa e sua atenção aos detalhes garantem que nossos produtos sejam livres de defeitos.",
+      "imageUrl": "/assets/team_h_4.png"
+    },
+    {
+      "name": "Lucas Oliveira",
+      "role": "Arquiteto de Software",
+      "description": "Lucas Oliveira é um Arquiteto de Software visionário, com conhecimento profundo em design de sistemas escaláveis e arquiteturas de microserviços. Ele lidera iniciativas de inovação tecnológica e orienta nossa equipe de desenvolvimento em direção a soluções de última geração.",
+      "imageUrl": "/assets/team_h_5.png"
+    },
+    {
+      "name": "Sofia Costa",
+      "role": "DBA (Administradora de Banco de Dados)",
+      "description": "Sofia Costa é uma especialista em gerenciamento de bancos de dados, garantindo que nossos sistemas tenham alto desempenho e confiabilidade. Ela otimiza consultas, mantém a integridade dos dados e está sempre pronta para enfrentar desafios relacionados a bancos de dados.",
+      "imageUrl": "/assets/team_m_6.png"
+    },
+    {
+      "name": "Rafael Mendes",
+      "role": "DevOps Engineer",
+      "description": "Rafael Mendes é um Engenheiro DevOps que automatiza e aprimora nossos processos de entrega de software. Sua experiência em integração contínua e implantação contínua ajuda nossa equipe a entregar software com eficiência e qualidade.",
+      "imageUrl": "/assets/team_h_7.png"
+    },
+    {
+      "name": "Mariana Ferreira",
+      "role": "Product Manager",
+      "description": "Mariana Ferreira é uma gerente de produtos dedicada a alinhar nossos produtos com as necessidades dos clientes. Ela lidera estratégias de desenvolvimento de produtos e está sempre em busca de maneiras de melhorar a experiência do usuário.",
+      "imageUrl": "/assets/team_m_8.png"
+    }
+  ]
+  

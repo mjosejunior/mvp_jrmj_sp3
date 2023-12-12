@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "A Casa do Porco",
+        "ranking": "1º lugar",
+        "foto": "https://classic.exame.com/wp-content/uploads/2023/04/Melhores-Restaurantes_casadoporco.jpg",
+        "detalhes": "A Casa do Porco: nem um dia sequer sem uma fila de clientes na porta.",
+        "endereco": "Rua Araújo 124, República, São Paulo",
+        "fonte": "https://exame.com/casual/os-100-melhores-restaurantes-do-brasil-segundo-o-ranking-da-exame/"
+    },
+    {
+        "id": 2,
+        "name": "Lasai",
+        "ranking": "2º lugar",
+        "foto": "https://classic.exame.com/wp-content/uploads/2023/04/Melhores-Restaurantes_Lasai.jpg",
+        "detalhes": "Um novo capítulo na história do Lasai começou a ser escrito em maio do ano passado.",
+        "endereco": "Largo dos Leões 35, Humaitá, Rio de Janeiro",
+        "fonte": "https://exame.com/casual/os-100-melhores-restaurantes-do-brasil-segundo-o-ranking-da-exame/"
+    }
+]

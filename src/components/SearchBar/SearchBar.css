@@ -1,0 +1,23 @@
+ 
+  .search-bar {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .search-bar input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .search-bar-container .warning-input {
+    border-color: red; /* Cor da borda para indicar aviso */
+  }
+  
+  .search-bar-container .warning-text {
+    color:white;
+    margin-top: 5px;
+    font-size: 0.9em;
+  }
+  
